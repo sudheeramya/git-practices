@@ -1,1 +1,2 @@
 this is my first sample text
+ directly open and editing
