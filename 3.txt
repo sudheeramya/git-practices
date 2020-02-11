@@ -1,4 +1,8 @@
 hi
+<<<<<<< HEAD
 
  ths is local to remote with merge option
 
+=======
+this is sudheer
+>>>>>>> 4565fa6ac16870d899a5e0022f9eb11b1feed3c5
