@@ -1,1 +1,4 @@
 hi
+
+ ths is local to remote with merge option
+
